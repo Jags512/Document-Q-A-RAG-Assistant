@@ -2,11 +2,7 @@
 
 An AI-powered Retrieval-Augmented Generation (RAG) chatbot that answers questions from uploaded PDFs using LangChain, ChromaDB vector search, and Groq LLM models — with fast semantic search and accurate context-grounded answers.
 
-🚀 Live Demo
 
-(Add this after you deploy — e.g., on Render or Hugging Face Spaces)
-
-👉 https://your-deploy-link.onrender.app
 
 📌 Overview
 
