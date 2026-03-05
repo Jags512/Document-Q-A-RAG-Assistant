@@ -1,12 +1,11 @@
-📄 Document Q-A RAG Assistant
-
+📄 Intelligent Document-Based AI Assistant (RAG)|
 An AI-powered Retrieval-Augmented Generation (RAG) chatbot that answers questions from uploaded PDFs using LangChain, ChromaDB vector search, and Groq LLM models — with fast semantic search and accurate context-grounded answers.
 
 
 
 📌 Overview
 
-Document Q-A RAG Assistant lets users:
+Intelligent Document-Based AI Assistant (RAG)|:
 
 ✔ Upload PDF documents
 ✔ Automatically extract text
